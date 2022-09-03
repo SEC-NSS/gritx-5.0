@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/gritx-5.0/static/css/main.281b9e34.css",
-    "main.js": "/gritx-5.0/static/js/main.de41265c.js",
+    "main.css": "/gritx-5.0/static/css/main.12f2ef0b.css",
+    "main.js": "/gritx-5.0/static/js/main.739fbc56.js",
     "static/media/hyperzestbrochure.pdf": "/gritx-5.0/static/media/hyperzestbrochure.1f274e2deecc3a87571a.pdf",
     "static/media/mindtwisterbg.png": "/gritx-5.0/static/media/mindtwisterbg.d15fcc2ee8f38a3da3c3.png",
+    "static/media/pixmebg.png": "/gritx-5.0/static/media/pixmebg.01c22383f5ba8208fb8e.png",
+    "static/media/dazeplaybg.png": "/gritx-5.0/static/media/dazeplaybg.7fd06c8634a66d4105a7.png",
+    "static/media/hyperzestbg.png": "/gritx-5.0/static/media/hyperzestbg.87d2c690c418aa0a3571.png",
     "static/media/warriorsleaguelogo.png": "/gritx-5.0/static/media/warriorsleaguelogo.228a4b34953bcc83cdb6.png",
     "static/media/SAIRAM-BUS-ROUTE.pdf": "/gritx-5.0/static/media/SAIRAM-BUS-ROUTE.4d79bb89409c896fc1fb.pdf",
     "static/media/clgblurbg.png": "/gritx-5.0/static/media/clgblurbg.17011465dd0af7836ddd.png",
@@ -12,6 +15,7 @@
     "static/media/dazeplaylogo.png": "/gritx-5.0/static/media/dazeplaylogo.976068e4b834dbd982bb.png",
     "static/media/mindtwisterslogo.png": "/gritx-5.0/static/media/mindtwisterslogo.debf5dccff3b4b6609d3.png",
     "static/media/squidgamelogo.png": "/gritx-5.0/static/media/squidgamelogo.22e9c7620077a2922b67.png",
+    "static/media/dazeplaybrochure.pdf": "/gritx-5.0/static/media/dazeplaybrochure.f5642a35516475d933ed.pdf",
     "static/media/grit x main logo.png": "/gritx-5.0/static/media/grit x main logo.b0be90638be55cfeede1.png",
     "static/media/pixmelogo.png": "/gritx-5.0/static/media/pixmelogo.4e2e128029e7c736dc21.png",
     "static/media/hyperzestlogo.png": "/gritx-5.0/static/media/hyperzestlogo.0c7c2ed60fd5a53f23cd.png",
@@ -27,11 +31,11 @@
     "static/media/slick.ttf": "/gritx-5.0/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/gritx-5.0/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/gritx-5.0/index.html",
-    "main.281b9e34.css.map": "/gritx-5.0/static/css/main.281b9e34.css.map",
-    "main.de41265c.js.map": "/gritx-5.0/static/js/main.de41265c.js.map"
+    "main.12f2ef0b.css.map": "/gritx-5.0/static/css/main.12f2ef0b.css.map",
+    "main.739fbc56.js.map": "/gritx-5.0/static/js/main.739fbc56.js.map"
   },
   "entrypoints": [
-    "static/css/main.281b9e34.css",
-    "static/js/main.de41265c.js"
+    "static/css/main.12f2ef0b.css",
+    "static/js/main.739fbc56.js"
   ]
 }
