@@ -12,7 +12,8 @@ import Description from './components/Description';
 import Details from './components/Details';
 import Descriptionfooter from './components/Descriptionfooter';
 import  Mindtwisterdetails  from "./contents/mindtwisterdetails";
-import Hyperzestdetails from "./contents/hyperzest"
+import Hyperzestdetails from "./contents/hyperzest";
+import Dazeplaydetails from "./contents/dazeplay";
 import mindtwisterslogo from "./assets/mindtwisterslogo.png";
 import hyperzestlogo from "./assets/hyperzestlogo.png";
 import funnyweaverlogo from "./assets/funnyweaverlogo.png";
@@ -59,9 +60,9 @@ root.render(
       } />
       <Route path="/dazeplay" element={
         <>
-          <Description Descriptioncontent={Mindtwisterdetails.Mindtwisterdetails} eventlogo={dazeplaylogo}/>
-          <Details Descriptioncontent={Mindtwisterdetails.Mindtwistersroundsdetails}  />
-          <Descriptionfooter Descriptioncontent={Mindtwisterdetails.Mindtwisterscontactdetails}/>
+          <Description Descriptioncontent={Dazeplaydetails.Dazeplaydetails} eventlogo={dazeplaylogo}/>
+          <Details Descriptioncontent={Dazeplaydetails.Dazeplaysroundsdetails}  />
+          <Descriptionfooter Descriptioncontent={Dazeplaydetails.Dazeplaycontactdetails}/>
         </>
       } />
       <Route path="/pixme" element={

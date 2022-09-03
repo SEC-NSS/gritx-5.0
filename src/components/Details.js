@@ -91,9 +91,7 @@ function Details(detailss) {
                      <h3 className="text-[#B760B1] text-md sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-rubik-one"> {e.roundtitle} </h3>
                      <h5 className="text-yellow text-light text-xl italic">{e.month} {e.date},  {e.year}</h5>
                      <p className="text-white text-xs sm:text-sm sm:pt-2 md:text-base lg:text-md xl:text-lg">
-                             The participants will be provided with topics, from which they have
-                             to choose one and make a plan to sell the product, humorously that 
-                             is feasible in the real world.
+                             {e.rounddescription}
                              
                      </p>
                  </div>

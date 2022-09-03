@@ -37,7 +37,7 @@ const Hyperzestcontactdetails=()=>{
         contactperson1:"Gokulaa Krishnaa S",
         contactperson2:"Abishek",
         contact1:"7358543180",
-        contact2:"8865421560",
+        contact2:"8825829572",
         coordinators:["Gokulaa Krishnaa S","Abishek","Nayeema","Sivani D"],
         contactemail:"hyperzest@gmail.com",
     }
