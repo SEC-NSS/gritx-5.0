@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e9636dc4.css",
-    "main.js": "/static/js/main.336fd3a8.js",
+    "main.js": "/static/js/main.b76c0e4c.js",
     "static/media/hyperzestbrochure.pdf": "/static/media/hyperzestbrochure.1f274e2deecc3a87571a.pdf",
     "static/media/mindtwisterbg.png": "/static/media/mindtwisterbg.d15fcc2ee8f38a3da3c3.png",
     "static/media/warriorsleaguelogo.png": "/static/media/warriorsleaguelogo.228a4b34953bcc83cdb6.png",
@@ -28,10 +28,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.e9636dc4.css.map": "/static/css/main.e9636dc4.css.map",
-    "main.336fd3a8.js.map": "/static/js/main.336fd3a8.js.map"
+    "main.b76c0e4c.js.map": "/static/js/main.b76c0e4c.js.map"
   },
   "entrypoints": [
     "static/css/main.e9636dc4.css",
-    "static/js/main.336fd3a8.js"
+    "static/js/main.b76c0e4c.js"
   ]
 }
