@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import './index.css';
 import Navbar from './components/navbar';
 import Footer from './components/footer';
@@ -27,7 +27,7 @@ import hyperzestbrochure from "./assets/hyperzestbrochure.pdf"
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter>
     <Routes >
       <Route path="/" element={
         <>
@@ -104,7 +104,7 @@ root.render(
 
     </Routes>
     
-    </BrowserRouter>
+    </HashRouter>
    
   </React.StrictMode>
 );
