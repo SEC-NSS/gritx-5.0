@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gritx-5.0/static/css/main.a678ddc0.css",
-    "main.js": "/gritx-5.0/static/js/main.b101ca2f.js",
+    "main.css": "/gritx-5.0/static/css/main.f6abddda.css",
+    "main.js": "/gritx-5.0/static/js/main.44b146ca.js",
     "static/media/hyperzestbrochure.pdf": "/gritx-5.0/static/media/hyperzestbrochure.dbf278793611adb2f4a6.pdf",
     "static/media/mindtwisterbg.png": "/gritx-5.0/static/media/mindtwisterbg.d15fcc2ee8f38a3da3c3.png",
     "static/media/campusambassadorbrochure.pdf": "/gritx-5.0/static/media/campusambassadorbrochure.8457807ae04550f535e2.pdf",
@@ -43,11 +43,11 @@
     "static/media/slick.ttf": "/gritx-5.0/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/gritx-5.0/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/gritx-5.0/index.html",
-    "main.a678ddc0.css.map": "/gritx-5.0/static/css/main.a678ddc0.css.map",
-    "main.b101ca2f.js.map": "/gritx-5.0/static/js/main.b101ca2f.js.map"
+    "main.f6abddda.css.map": "/gritx-5.0/static/css/main.f6abddda.css.map",
+    "main.44b146ca.js.map": "/gritx-5.0/static/js/main.44b146ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.a678ddc0.css",
-    "static/js/main.b101ca2f.js"
+    "static/css/main.f6abddda.css",
+    "static/js/main.44b146ca.js"
   ]
 }
