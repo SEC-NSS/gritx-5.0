@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a53c1d1f.css",
-    "main.js": "/static/js/main.79873053.js",
+    "main.js": "/static/js/main.b7b12e6d.js",
     "static/media/hyperzestbrochure.pdf": "/static/media/hyperzestbrochure.dbf278793611adb2f4a6.pdf",
     "static/media/mindtwisterbg.png": "/static/media/mindtwisterbg.d15fcc2ee8f38a3da3c3.png",
     "static/media/campusambassadorbrochure.pdf": "/static/media/campusambassadorbrochure.8457807ae04550f535e2.pdf",
@@ -12,13 +12,14 @@
     "static/media/thewarriorsleaguebg.png": "/static/media/thewarriorsleaguebg.541b781e67216ec4571f.png",
     "static/media/funnyweaversbg.png": "/static/media/funnyweaversbg.2676c6242317274e8ca1.png",
     "static/media/campusambassadorbg.png": "/static/media/campusambassadorbg.5a07940666fd5ba4785b.png",
-    "static/media/pixmebrochure.pdf": "/static/media/pixmebrochure.8f246dddd08464e1650c.pdf",
+    "static/media/pixmebrochure.pdf": "/static/media/pixmebrochure.d1c75878e2c85d0d33b5.pdf",
     "static/media/SAIRAM-BUS-ROUTE.pdf": "/static/media/SAIRAM-BUS-ROUTE.4d79bb89409c896fc1fb.pdf",
     "static/media/clgblurbg.png": "/static/media/clgblurbg.17011465dd0af7836ddd.png",
     "static/media/alleventlogocollab.png": "/static/media/alleventlogocollab.48293cdb3c43c6de7b10.png",
     "static/media/funnyweaverlogo.png": "/static/media/funnyweaverlogo.b4b336bf3f7ff36a0b62.png",
     "static/media/dazeplaylogo.png": "/static/media/dazeplaylogo.976068e4b834dbd982bb.png",
     "static/media/squidgamebrochure.pdf": "/static/media/squidgamebrochure.5c71f2414927973c3f56.pdf",
+    "static/media/funnyweaverbrochure.pdf": "/static/media/funnyweaverbrochure.8eb1a49aa870c9688db0.pdf",
     "static/media/youtubelogo.png": "/static/media/youtubelogo.9660063bce527434c089.png",
     "static/media/mindtwisterslogo.png": "/static/media/mindtwisterslogo.debf5dccff3b4b6609d3.png",
     "static/media/warriorsleaguelogo.png": "/static/media/warriorsleaguelogo.deb27d6c7ad89ed61651.png",
@@ -45,10 +46,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.a53c1d1f.css.map": "/static/css/main.a53c1d1f.css.map",
-    "main.79873053.js.map": "/static/js/main.79873053.js.map"
+    "main.b7b12e6d.js.map": "/static/js/main.b7b12e6d.js.map"
   },
   "entrypoints": [
     "static/css/main.a53c1d1f.css",
-    "static/js/main.79873053.js"
+    "static/js/main.b7b12e6d.js"
   ]
 }
