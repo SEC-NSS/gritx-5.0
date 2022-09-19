@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a53c1d1f.css",
-    "main.js": "/static/js/main.601ceccf.js",
+    "main.js": "/static/js/main.cec72cab.js",
     "static/media/hyperzestbrochure.pdf": "/static/media/hyperzestbrochure.dbf278793611adb2f4a6.pdf",
     "static/media/mindtwisterbg.png": "/static/media/mindtwisterbg.d15fcc2ee8f38a3da3c3.png",
     "static/media/campusambassadorbrochure.pdf": "/static/media/campusambassadorbrochure.8457807ae04550f535e2.pdf",
@@ -46,10 +46,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.a53c1d1f.css.map": "/static/css/main.a53c1d1f.css.map",
-    "main.601ceccf.js.map": "/static/js/main.601ceccf.js.map"
+    "main.cec72cab.js.map": "/static/js/main.cec72cab.js.map"
   },
   "entrypoints": [
     "static/css/main.a53c1d1f.css",
-    "static/js/main.601ceccf.js"
+    "static/js/main.cec72cab.js"
   ]
 }
